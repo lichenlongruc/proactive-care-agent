@@ -1,5 +1,5 @@
 # Proactive Care Agent
-Data prepocessing description of the [manuscript submitted to ACM](https://github.com/YJY131248/Chat4Seniors/tree/main).
+Data-prepocessing description of the [manuscript submitted to ACM](https://github.com/YJY131248/Chat4Seniors/tree/main).
 ## Corpus
 ### Data Source
 [CareCall for Seniors](https://github.com/naver-ai/carecall-corpus)
