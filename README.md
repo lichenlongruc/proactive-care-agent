@@ -1,6 +1,6 @@
 # Proactive Care Agent
 Data description of Proactive Care Agent. See more details in the example named [Chat4Seniors](https://github.com/YJY131248/Chat4Seniors/tree/main).
-## Corpus
+## Data
 ### Source
 Korean corpus [CareCall for Seniors](https://github.com/naver-ai/carecall-corpus).
 >Title: Building a Role Specified Open-Domain Dialogue System Leveraging Large-Scale Language Models  
