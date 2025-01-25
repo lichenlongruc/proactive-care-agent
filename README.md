@@ -1,2 +1,2 @@
 # proactive-care-agent
-Data preprocessing of the manuscript submitted for ACM
+Data prepocessing description of the manuscript submitted to ACM
