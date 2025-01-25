@@ -3,6 +3,9 @@ Data description of Proactive Care Agent. See more details in the example named 
 ## Corpus
 ### Source
 Korean corpus [CareCall for Seniors](https://github.com/naver-ai/carecall-corpus).
+>Title: Building a Role Specified Open-Domain Dialogue System Leveraging Large-Scale Language Models  
+Authors: Sanghwan Bae, Donghyun Kwak, Sungdong Kim, Donghoon Ham, Soyoung Kang, Sang-Woo Lee, Woomyoung Park  
+In NAACL 2022.
 ### Translation
 Translated to English (United States) by [Azure AI](https://learn.microsoft.com/en-us/azure/ai-services/translator/).
 ### Manual Verification
