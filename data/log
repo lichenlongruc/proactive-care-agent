@@ -1,0 +1,75 @@
+# JSON File Update Log
+
+## Version: v1.0.20250122
+
+### Change Summary
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `",^p "text":`
+- **New Value**: `",^p                "text":`
+- **Reason**: Standardize writing formats.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `"yes`
+- **New Value**: `"Yes`
+- **Reason**: Standardize writing formats.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `Hello, senior~  `
+- **New Value**: `Hello, senior~ `
+- **Reason**: Simplify the greeting message.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `Hello, senior~`
+- **New Value**: `Hello.`
+- **Reason**: Simplify the greeting message.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `Hello~ Senior`
+- **New Value**: `Hello`
+- **Reason**: Simplify the greeting message.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `~`
+- **New Value**: `.`
+- **Reason**: Standardize writing formats.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `the elderly`
+- **New Value**: `older adults`
+- **Reason**: Support a more inclusive image of aging.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `elderly people`
+- **New Value**: `older adults`
+- **Reason**: Support a more inclusive image of aging.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `seniors`
+- **New Value**: `older adults`
+- **Reason**: Support a more inclusive image of aging.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `Clova Anbucol`
+- **New Value**: `Care Call`
+- **Reason**: Standardize writing formats.
+
+- **Type**: Text change
+- **File**: `/data/carecall_feedback_100_trans.json`
+- **Old Value**: `Clova regards`
+- **New Value**: `Care Call`
+- **Reason**: Standardize writing formats.
+
+### Additional Notes
+
+- This update also includes minor typo corrections and translation optimizations.
