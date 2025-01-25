@@ -12,8 +12,8 @@
 
 - **Type**: Text change
 - **File**: `/data/carecall_feedback_100_trans.json`
-- **Old Value**: `"yes`
-- **New Value**: `"Yes`
+- **Old Value**: `": "yes`
+- **New Value**: `": "Yes`
 - **Reason**: Standardize writing formats.
 
 - **Type**: Text change
