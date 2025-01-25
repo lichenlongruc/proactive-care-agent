@@ -1,4 +1,4 @@
 # Proactive Care Agent
-Data prepocessing description of the manuscript submitted to ACM
+Data prepocessing description of the manuscript submitted to ACM.
 ## License
-MIT License
+The corpus of Proactive Care Agent is released under MIT License.
