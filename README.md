@@ -7,7 +7,7 @@ Korean corpus [CareCall for Seniors](https://github.com/naver-ai/carecall-corpus
 Authors: Sanghwan Bae, Donghyun Kwak, Sungdong Kim, Donghoon Ham, Soyoung Kang, Sang-Woo Lee, Woomyoung Park  
 In NAACL 2022.
 ### Translation
-Translated to English (United States) by [Azure AI](https://learn.microsoft.com/en-us/azure/ai-services/translator/).
+Translate to English (United States) with [Azure AI](https://learn.microsoft.com/en-us/azure/ai-services/translator/).
 ### Manual Verification
 Following the [GSA](https://www.geron.org/) [Reframing Aging Journal Manuscript Guidelines](https://static.primary.prod.gcms.the-infra.com/static/site/gsa/document/Reframing_Aging_Journal_Manuscript_Guidelines.pdf?node=412d7ccc31fac597b9de).
 >To support a more inclusive image of aging, we ask that our authors adopt “older adult,” “older persons,” or “older people” as the preferred terms for describing individuals aged 65 years and older as opposed to “seniors,” “the elderly,” and “the aged.”
