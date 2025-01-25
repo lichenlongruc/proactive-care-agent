@@ -6,6 +6,6 @@ Data-prepocessing description of the [manuscript submitted to ACM](https://githu
 ### Corpus Translation
 [Azure AI](https://learn.microsoft.com/en-us/azure/ai-services/translator/)
 ### Manual Verification
-[Reframing Aging Journal Manuscript Guidelines](https://static.primary.prod.gcms.the-infra.com/static/site/gsa/document/Reframing_Aging_Journal_Manuscript_Guidelines.pdf?node=412d7ccc31fac597b9de)
+Following GSA [Reframing Aging Journal Manuscript Guidelines](https://static.primary.prod.gcms.the-infra.com/static/site/gsa/document/Reframing_Aging_Journal_Manuscript_Guidelines.pdf?node=412d7ccc31fac597b9de)
 ## License
 The corpus of Proactive Care Agent is released under MIT License.
